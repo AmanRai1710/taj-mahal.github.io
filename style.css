@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+}
+.back{
+    background-image: url(photo.png/taj\ mahal.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+a{
+    color: gold;
+    list-style: none;
+    margin: 6%;
+}
+.nav{
+    padding-left: 60%;
+}
+section{
+    padding-top: 15%;
+    color:red;
+}
+h3{
+    color:whitesmoke;
+}
+h1{
+    color:red;
+}
+.active,a:hover{
+    background-color: blue;
+}
+.read,.sign{
+    color:black;
+    margin: 0%;
+}
+.icon{
+    color:  red;
+}
